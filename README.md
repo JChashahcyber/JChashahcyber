@@ -7,6 +7,6 @@
  - [Group Assignments](https://github.com/JChashahcyber/group-assign)
  - [Identity Lifecycle](https://github.com/JChashahcyber/identity-lifecycle)
  - [Audit Logs](https://github.com/JChashahcyber/audit-logs)
- - [Sign-In Logs](https://github.com/JChashahcyber/sign-in-logs/tree/main)
+ - [Sign-In Logs](https://github.com/JChashahcyber/sign-in-logs)
  - [Authentication](https://github.com/JChashahcyber/authentication)
    
