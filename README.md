@@ -5,7 +5,7 @@
  - [Cloud Provisioning - P2 Licensing](https://github.com/JChashahcyber/p2-licensing)
  - [Role Assignments](https://github.com/JChashahcyber/role-assignments)
  - [Group Assignments](https://github.com/JChashahcyber/group-assign)
- - [Identity Lifecycle](https://github.com/JChashahcyber/identity-lifecycle/tree/main)
+ - [Identity Lifecycle](https://github.com/JChashahcyber/identity-lifecycle)
  - [Audit Logs](https://github.com/JChashahcyber/audit-logs)
  - [Sign-In Logs](https://github.com/JChashahcyber/sign-in-logs/tree/main)
  - [Authentication](https://github.com/JChashahcyber/authentication)
