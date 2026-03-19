@@ -6,7 +6,7 @@
  - [Role Assignments](https://github.com/JChashahcyber/role-assignments)
  - [Group Assignments](https://github.com/JChashahcyber/group-assign)
  - [Identity Lifecycle](https://github.com/JChashahcyber/identity-lifecycle/tree/main)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/JChashahcyber/audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
    
